@@ -2,6 +2,7 @@
 - 👀 I’m interested in baking! 🍞
 - 🌱 I’m currently a R&D Engineer at Imperative Care.
 - 📫 dgonzalez@imperativecare.com
+- 👨‍💻 Check out my website @ dxgr.squarespace.com
 
 <!---
 David-XG/David-XG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
